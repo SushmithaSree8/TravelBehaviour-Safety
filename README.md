@@ -3,6 +3,7 @@
 ## Files
 
 - Data Extraction.ipynb : Jupyter notebook to extract the required data from the orginal data sources
+- Data Exploration and Wrangling.ipynb: Jupyter notebook with initial exploration of the data and data cleaning steps
 
 - Key_Indicators-HCE_66th_Rd-Report.pdf: Reference for understanding the data columns
 
